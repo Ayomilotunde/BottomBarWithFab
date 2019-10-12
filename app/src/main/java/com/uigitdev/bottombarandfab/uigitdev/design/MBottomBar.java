@@ -42,7 +42,6 @@ public class MBottomBar extends AppCompatActivity {
         }
     }
 
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.bottom_bar_menu, menu);
